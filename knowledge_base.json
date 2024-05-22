@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "Harper Lee wrote 'To Kill a Mockingbird'."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100 degrees Celsius or 212 degrees Fahrenheit."
+    },
+    {
+      "question": "What is the square root of 64?",
+      "answer": "The square root of 64 is 8."
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "Bangladesh",
+      "answer": "Bangladesh is a Country Name"
+    },
+    {
+      "question": "Who is farhan ?",
+      "answer": "Farhan is on of co-founder of this code"
+    }
+  ]
+}
